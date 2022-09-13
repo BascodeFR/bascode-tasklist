@@ -19,5 +19,5 @@ Cloudflare  -- SSL --> Client{Client WEB}
 
 serv --> C(Minecraft Bascode)
 C --> Bungee(Bungeecord)
-Bungee --> CM(Client Minecaft)
+Bungee --> CM{Client Minecaft}
 ``` 
